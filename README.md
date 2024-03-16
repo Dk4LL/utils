@@ -1,5 +1,6 @@
-# utils
-Directory where some files necessary for the configuration of my unix-like systems are saved.
+# About project
+
+This directory is where some files necessary for the configuration of my unix-like systems are saved.
 
 ## Fonts
 * FiraMonoNerdFont-Bold
